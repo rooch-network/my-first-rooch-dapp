@@ -1,6 +1,7 @@
 # My First Rooch dApp
 
-This template provides the simplest use case for the `@roochnetwork/rooch-sdk-kit`. Through this template, you can learn how to interact with the Rooch chain using the `@roochnetwork/rooch-sdk-kit`, including:
+This template provides the simplest use case for the `@roochnetwork/rooch-sdk-kit`. 
+Through this template, you can learn how to interact with the Rooch chain using the `@roochnetwork/rooch-sdk-kit`, including:
 
 1. Connecting a wallet
 2. Creating a session
