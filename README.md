@@ -10,3 +10,12 @@ Through this template, you can learn how to interact with the Rooch chain using 
 
 ### Counter Contract
 In `/counter_contract`, there is a contract that is paired with the DApp for use.
+
+
+### Usage
+
+```bash
+# bun
+bun install
+bun dev 
+```
