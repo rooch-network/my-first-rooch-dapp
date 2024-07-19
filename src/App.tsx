@@ -20,6 +20,7 @@ import { useState } from "react";
 import "./App.css";
 import { shortAddress } from "./utils";
 
+// Publish address of the counter contract
 const counterAddress = "YOUR_COUNTER_ADDRESS";
 
 function App() {
@@ -196,7 +197,7 @@ function App() {
         alignItems="flex-start"
       >
         <Typography className="text-3xl font-bold">
-          DApp integration
+          dApp integration
           <span className="text-base font-normal ml-4">({counterAddress})</span>
         </Typography>
         <Stack
