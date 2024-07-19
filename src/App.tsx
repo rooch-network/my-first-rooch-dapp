@@ -20,8 +20,7 @@ import { useState } from "react";
 import "./App.css";
 import { shortAddress } from "./utils";
 
-const counterAddress =
-  "0xcf81bf481d9a396fc7c0854b8b33d2ababe11394c0d486957b177e7280b0e340";
+const counterAddress = "YOUR_COUNTER_ADDRESS";
 
 function App() {
   const wallets = useWallets();
