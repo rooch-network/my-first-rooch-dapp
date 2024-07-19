@@ -2,6 +2,8 @@
 
 ![My First Rooch dApp](image.png)
 
+[For a complete tutorial, please refer to the official doc.](https://rooch.network/build/getting-started/first-dapp)
+
 This template provides the simplest use case for the `@roochnetwork/rooch-sdk-kit`. 
 Through this template, you can learn how to interact with the Rooch chain using the `@roochnetwork/rooch-sdk-kit`, including:
 
